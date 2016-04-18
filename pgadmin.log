@@ -24,7 +24,8 @@ LINE 1: SELECT count(*) AS rows FROM ONLY ts_us_sessions_map_2012060...
 2012-07-26 10:46:03 ERROR  : FATAL:  password authentication failed for user "postgres"
 
 2012-07-26 10:46:24 ERROR  : FATAL:  password authentication failed for user "postgres"
-
+-- added comment  for oracle
+/* for sql sever */
 2012-07-26 10:46:46 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
 
 2012-07-26 10:48:56 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
