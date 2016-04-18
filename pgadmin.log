@@ -1,0 +1,66 @@
+2012-06-04 08:47:07 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2012-06-05 08:42:54 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2012-06-05 10:51:48 ERROR  : ERROR:  relation "ts_us_sessions_map_20120605_07" does not exist
+LINE 1: SELECT count(*) AS rows FROM ONLY ts_us_sessions_map_2012060...
+                                          ^
+2012-07-26 10:43:06 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:43:19 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:43:30 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:43:33 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:45:42 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:45:44 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:45:56 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:46:01 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:46:03 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:46:24 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:46:46 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:48:56 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:49:08 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 10:49:29 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 11:04:21 ERROR  : Error connecting to the server: FATAL:  password authentication failed for user "postgres"
+
+2012-07-26 11:14:45 ERROR  : ERROR:  the log_filename parameter must equal 'postgresql-%Y-%m-%d_%H%M%S.log'
+2012-07-26 12:00:41 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+2012-07-26 12:00:42 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2012-07-26 12:00:43 ERROR  : server closed the connection unexpectedly
+	This probably means the server terminated abnormally
+	before or while processing the request.
+
+2012-09-09 08:36:33 ERROR  : ERROR:  relation "user_tables" does not exist
+LINE 1: select * from user_tables
+                      ^
+2012-09-09 08:36:47 ERROR  : ERROR:  relation "user_tables" does not exist
+LINE 1: select * from user_tables;
+                      ^
+2012-09-09 08:36:58 ERROR  : ERROR:  relation "all_tables" does not exist
+LINE 1: select * from all_tables;
+                      ^
+2014-02-03 10:19:21 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2014-02-03 10:19:24 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2014-02-03 10:19:51 ERROR  : FATAL:  password authentication failed for user "postgres"
+
+2014-02-03 10:19:54 ERROR  : FATAL:  password authentication failed for user "postgres"
+
